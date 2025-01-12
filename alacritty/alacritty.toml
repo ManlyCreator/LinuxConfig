@@ -1,0 +1,37 @@
+[window]
+padding.x = 5
+padding.y = 5
+
+opacity = 0.7
+blur = true
+
+[font]
+size = 15
+
+# Colors (Everforest Dark)
+[colors.primary]
+# Default colors
+background = '#2d353b'
+foreground = '#d3c6aa'
+
+[colors.normal]
+# Normal colors
+black   = '#475258'
+red     = '#e67e80'
+green   = '#a7c080'
+yellow  = '#dbbc7f'
+blue    = '#7fbbb3'
+magenta = '#d699b6'
+cyan    = '#83c092'
+white   = '#d3c6aa'
+
+[colors.bright]
+# Bright colors
+black   = '#475258'
+red     = '#e67e80'
+green   = '#a7c080'
+yellow  = '#dbbc7f'
+blue    = '#7fbbb3'
+magenta = '#d699b6'
+cyan    = '#83c092'
+white   = '#d3c6aa'
